@@ -1,0 +1,40 @@
+#testimonials {
+    background-color: #FFE3E1;
+    text-align: center;
+    padding: 50px 0;
+
+}
+
+#testimonials .testimonial {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 300px;
+    background-color: white;
+}
+
+.hero-bg {
+    /* background-color: #FFB1B1; */
+    background-color: #FFE3E1;
+}
+a.nav-link:hover {
+    color: #EB1D36 !important;
+}
+a.nav-link {
+    color: black !important;
+}
+.get-started-button {
+    background-color: #EB1D36 !important;
+}
+.get-started-button:hover {
+    background-color: #C40C0C !important;
+    color: white !important;
+}
+.pricing-header > h1 {
+    color: #EB1D36 !important;
+}
+.card {
+    background-color: #f6e8e7 !important;
+}
